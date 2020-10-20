@@ -1,54 +1,47 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
 
 ### Instructors
 
-**Your Name and Surname**
+**Metehan Seyran**
 
 *Computer Engineering #4 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
+[*LinkedIn*](https://www.linkedin.com/in/metehan-seyran/)
 
 
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+1. Basic knowledge about Python programming language.
+2. Basic knowledge about Calculus and Linear Algebra.
 
 ### Goal
-
-goals about program...
+* Make attendees familiar to basic Machine Learning Topics such as Classification and Regression
+* Make attendees familiar with concepts of Neural Networks
+* Introduce basics of computational libraries such as PyTorch and NumPy
 
 ### Syllabus
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| TBA | Basic Machine Learning Pipeline  | Basic pipeline for a general Machine Learning project |
+| TBA  | Optimization algorithms for ML | Widely used optimization algorithms and their implementations |
+| TBA  |  Linear Regression  | Introduction of Linear Regression and implementation using PyTorch  |
+| TBA  |  NonLinear Regression and Classification  | Introduction of Classification algorithms and implementation using PyTorch  |
+| TBA  | Neural Networks 1  | Basic introduction of Neural Networks and implementations 1 |
+| TBA  |  Neural Networks 2  | Neural Network implementation 2  |
 
+<p align="center"><b>Lessons will be around 1:30 - 2 hours (May Change)</b></p>
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
-
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
+(Lectures will be held online using Zoom)
 
 # Important Links
 
-You can add links here about your program...
+TBA...
 
 # Suggested Readings
 
-You can add readings here about your program...
+TBA...
 
 # Project
-Short project details. For more information visit the [Project file](/Project)
+TBA...
 
 
 <p align="center">

@@ -21,12 +21,12 @@
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| TBA | Basic Machine Learning Pipeline  | Basic pipeline for a general Machine Learning project |
-| TBA  | Optimization algorithms for ML | Widely used optimization algorithms and their implementations |
-| TBA  |  Linear Regression  | Introduction of Linear Regression and implementation using PyTorch  |
-| TBA  |  NonLinear Regression and Classification  | Introduction of Classification algorithms and implementation using PyTorch  |
-| TBA  | Neural Networks 1  | Basic introduction of Neural Networks and implementations 1 |
-| TBA  |  Neural Networks 2  | Neural Network implementation 2  |
+| 09.11.2020 | Basic Machine Learning Pipeline  | Basic pipeline for a general Machine Learning project |
+| 16.11.2020  | Optimization algorithms for ML | Widely used optimization algorithms and their implementations |
+| 23.11.2020  |  Linear Regression  | Introduction of Linear Regression and implementation using PyTorch  |
+| 30.11.2020  |  NonLinear Regression and Classification  | Introduction of Classification algorithms and implementation using PyTorch  |
+| 7.12.2020  | Neural Networks 1  | Basic introduction of Neural Networks and implementations 1 |
+| 14.12.2020  |  Neural Networks 2  | Neural Network implementation 2  |
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours (May Change)</b></p>
 
